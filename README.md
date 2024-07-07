@@ -6,4 +6,4 @@
 - -Open Source Projects: I am eager to contribute to open source projects, especially those related to machine learning, web development, or any area where I can apply my programming skills.
 - -Web Development: I am interested in front-end and back-end web development projects. I enjoy working with HTML, CSS, JavaScript, and am learning frameworks like React and Node.js.
 - 📫 How to reach me www.linkedin.com/in/amany-mohamed-073710279
-- 📫 How to reach me you can mail me on amanyhussein133gmail.com
+- 📫 How to reach me you can mail me on amanyhussein133@gmail.com
